@@ -15,7 +15,7 @@ npm install
 2. To work on this locally, you'll need an `nc_tunes` database on your machine. You can set this up using
 
 ```sh
-npm run setup-db
+npm run setup-dbs
 ```
 
 <!-- explain what it does -->
