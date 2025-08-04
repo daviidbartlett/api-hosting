@@ -1,0 +1,17 @@
+[
+  {
+    "playlist_name": "Davids running Jamz",
+    "is_public": true,
+    "songs": ["Cruel Summer", "Jolene", "Wildest Dreams", "Our Song"]
+  },
+  {
+    "playlist_name": "Roses Gaming Anthems",
+    "is_public": false,
+    "songs": ["Jolene", "Wildest Dreams", "9 to 5"]
+  },
+  {
+    "playlist_name": "Scarletts Coding Bangers",
+    "is_public": false,
+    "songs": ["Cruel Summer", "Paranoid", "Wildest Dreams", "9 to 5"]
+  }
+]
